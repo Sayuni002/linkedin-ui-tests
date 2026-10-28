@@ -161,7 +161,7 @@ public class LoginPage {
         }
     }
 
-    // ---------------------------------------------------------------- helpers
+    
 
     /** Returns the first element matching the locator that is actually visible (ignores hidden duplicates). */
     private WebElement waitForVisible(By locator, int seconds) {
