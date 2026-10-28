@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failure Screenshot Demo">
+  <listeners>
+    <listener class-name="listeners.TestListener"/>
+  </listeners>
+  <test name="Demo">
+    <classes>
+      <class name="tests.FailureDemoTest"/>
+    </classes>
+  </test>
+</suite>

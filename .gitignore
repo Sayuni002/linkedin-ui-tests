@@ -1,0 +1,6 @@
+config.properties
+screenshots/
+target/
+.idea/
+*.iml
+.vscode/

@@ -1,0 +1,9 @@
+# Copy this file to "config.properties" and fill in YOUR OWN test account.
+# config.properties is listed in .gitignore and must never be committed.
+linkedin.email=YOUR_TEST_ACCOUNT_EMAIL
+linkedin.password=YOUR_TEST_ACCOUNT_PASSWORD
+linkedin.wrong.password=WrongPassword@123
+search.term=software testing
+browser=chrome
+# Seconds to wait while you complete a CAPTCHA / verification step manually
+manual.verification.timeout.seconds=180
